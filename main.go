@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"/handlers"
+	"github.com/FavioSauto/microservices-with-go/handlers"
 )
 
 func main() {
